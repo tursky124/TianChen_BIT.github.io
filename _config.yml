@@ -11,7 +11,7 @@ locale                   : "Beijing-China"
 title                    : "Tian Chen / Professor"
 title_separator          : "-"
 name                     : &name "Tian Chen"
-description              : &description "My current interests are on the quantum walk based computation and algorithms."
+description              : &description "My current interests are on the quantum walk based computation and algorithms. We have been committed to the research of topological state control and its application in the field of quantum information processing, with a focus on experimental implementation based on quantum walk. Exploring novel topological states and their applications in quantum state control in quantum walk based on optical platforms and electrical networks; Constructing a quantum walk network to achieve high-sensitivity sensing and quantum inspired fast algorithms."
 url                      : https://TianChen_BIT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chentian@bit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
