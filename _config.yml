@@ -10,9 +10,9 @@
 locale                   : "Beijing-China"
 title                    : "Tian Chen / Professor"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tian Chen"
+description              : &description "My current interests are on the quantum walk based computation and algorithms."
+url                      : https://TianChen_BIT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
